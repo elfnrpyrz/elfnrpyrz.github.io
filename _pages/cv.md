@@ -11,26 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Cognitive Psychology, Rutgers University (2025)
+* M.S. in Cognitive Psychology, Rutgers University, 2021
+* B.S. in Psychology, METU, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023-2025: Teaching Assistant
+  * Introduction to Cognitive Science (CogSci:201) (Recitation Instructor)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summers 2020, 2021, 2022, 2023, 2024
+  * Cognition (Psych:305) (Instructor)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-2023: Teaching Assistant
+  * Cognition Lab (Psych:306) (Instructor)
+  * Sensation & Perception Lab (Psych:302) (Instructor)
+  * MATLAB Programming (Psych:403)(Grader)
   
 Skills
 ======
@@ -46,19 +42,19 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
