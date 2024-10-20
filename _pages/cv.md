@@ -15,19 +15,21 @@ Education
 * M.S. in Cognitive Psychology, Rutgers University, 2021
 * B.S. in Psychology, METU, 2017
 
-Work experience
+Teaching Experience
 ======
+* Primary Inst
+Summers 2020, 2021, 2022, 2023, 2024
+  * Cognition (Rutgers Psych:305) (Instructor)
+
 * 2023-2025: Teaching Assistant
   * Introduction to Cognitive Science (CogSci:201) (Recitation Instructor)
 
-* Summers 2020, 2021, 2022, 2023, 2024
-  * Cognition (Psych:305) (Instructor)
 
 * 2017-2023: Teaching Assistant
   * Cognition Lab (Psych:306) (Instructor)
   * Sensation & Perception Lab (Psych:302) (Instructor)
   * MATLAB Programming (Psych:403)(Grader)
-  
+
 Skills
 ======
 * Skill 1
