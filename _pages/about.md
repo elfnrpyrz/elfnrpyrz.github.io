@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Elif Poyraz"
-excerpt: "About me"
+excerpt: "Elif Poyraz"
 author_profile: true
 redirect_from:
   - /about/
