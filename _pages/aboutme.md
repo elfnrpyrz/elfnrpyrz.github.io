@@ -1,8 +1,12 @@
 ---
-layout: archive
+
+permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
+redirect_from:
+  - /aboutme/
+  - /aboutme.html
 ---
 
 I grew up in Ankara, Türkiye, and attended college there in [METU](https://www.metu.edu.tr) on its beautiful, green campus - which is a safe haven in Ankara's dry climate! Throughout my college years, I spent most of time exploring coffee shops, trying out different art forms like photography and drawing, and reading lots of literature and fiction.
