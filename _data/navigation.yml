@@ -7,7 +7,7 @@ main:
     url: /research/
 
   - title: "About me"
-    url: /aboutme/
+    url: /whoamI/
 
   # - title: "Talks"
   #   url: /talks/
@@ -15,8 +15,8 @@ main:
   # - title: "Teaching"
   #  url: /teaching/
 
-  - title: "Elif Poyraz"
-    url: /about/
+  # title: "Elif Poyraz"
+  # url: /about/
 
   # - title: "Blog Posts"
   #   url: /year-archive/
