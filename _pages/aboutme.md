@@ -1,14 +1,24 @@
 ---
-title: "About me"
-excerpt: "About me"
-author_profile: true
+layout: single
+title: "About"
+permalink: /about/
+excerpt: "About Elif Poyraz"
+author_profile: false
 redirect_from:
   - /whoamI/
   - /whoamI.html
 ---
 
-I grew up in Ankara, Türkiye, and attended college there in [METU](https://www.metu.edu.tr) on its beautiful, green campus - which is a safe haven in Ankara's dry climate! Throughout my college years, I spent most of time exploring coffee shops, trying out different art forms like photography and drawing, and reading lots of literature and fiction.
+<div class="about-intro">
+  <img src="/images/profile.png" alt="Elif Poyraz" class="about-intro__image">
+  <div>
+    <p class="page-lede">I’m a developmental cognitive scientist interested in the origins of human thought and our remarkable capacity to understand one another.</p>
+    <p>I grew up in Ankara, Türkiye, and studied psychology at Middle East Technical University. An exchange semester at the University of California, San Diego deepened my interest in cognitive science and the developmental origins of thought.</p>
+  </div>
+</div>
 
-After the early years of exploring in university, I realized that my long-standing interest in developmental psychology is deeply rooted in my curiosity in the origins of our thought, specifically the roots of our cognitive abilities. My interest in cognitive science grew stronger after the semester I spent in the University of California - San Diego in Fall 2015 (where I met one of my best friends). I was lucky to work with brilliant people both in METU and in Koç University during my undergrad years, before applying for graduate school in the US. I continue to meet so many amazing scientists. When I started college studying psychology, I was just thinking about learning more about the mind, and wasn't really thinking about careers, let alone one in science. Now, I get to explore what kind of early cognitive capacities we are endowed with, and how different cognitive systems interact!
+I completed my Ph.D. in Cognitive Psychology, with a certificate in Cognitive Science, at Rutgers University in 2025 under the mentorship of Alan M. Leslie. I am now a Teacher-Scholar Postdoctoral Associate at the Rutgers Center for Cognitive Science, working with Jinjing (Jenny) Wang.
 
-I'm a super amateur hiker, and am trying to incorporate it into my life a lot more - I love being outside especially when the weather is cool and crisp! I like reading and baking, love them even more when combined. :)
+My path into science grew from a broad curiosity about how minds work. I’ve been lucky to pursue that curiosity alongside generous collaborators and students at METU, Koç University, Rutgers, and beyond.
+
+Outside research, I enjoy cool-weather hikes, photography and drawing, fiction, exploring coffee shops, and baking—especially when baking and reading can happen at the same time.
