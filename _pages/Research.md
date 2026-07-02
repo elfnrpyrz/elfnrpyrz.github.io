@@ -9,37 +9,40 @@ author_profile: false
 
 <div class="research-grid">
   <article class="research-card">
-    <p class="eyebrow">2023–2025</p>
-    <h2>Developmental changes in theory of mind and inhibition</h2>
-    <p>A dense longitudinal study following 3- and 4-year-olds across repeated theory-of-mind and inhibitory-control tasks to understand developmental change within individual children.</p>
-    <p class="research-card__meta">Methods: repeated online testing, R, Bayesian analysis</p>
-  </article>
-
-  <article class="research-card">
-    <p class="eyebrow">2022–2025</p>
     <h2>Theory of mind and inhibitory control</h2>
-    <p>A large study of 3-, 4-, and 5-year-olds examining how performance across theory-of-mind and inhibitory-control tasks changes with age.</p>
-    <p class="research-card__meta">Methods: in-person and online experiments, Bayesian change-point modeling</p>
+    <p>This project asks how inhibitory control contributes to children’s developing ability to reason about other people’s beliefs. I approach the question through three connected components:</p>
+    <div class="research-components">
+      <section>
+        <h3>Dense longitudinal development</h3>
+        <p>Following individual 3- and 4-year-olds repeatedly across theory-of-mind and inhibitory-control tasks to characterize developmental change within children.</p>
+      </section>
+      <section>
+        <h3>Individual and age-related variation</h3>
+        <p>Examining how performance across theory-of-mind and inhibitory-control tasks varies among 3-, 4-, and 5-year-olds.</p>
+      </section>
+      <section>
+        <h3>Computational modeling</h3>
+        <p>Testing whether changes in inhibitory control can account for child-level changes in false-belief reasoning.</p>
+      </section>
+    </div>
+    <div class="research-citations">
+      <p class="eyebrow">Related proceedings</p>
+      <p><strong>Poyraz, E.</strong>, Hemmer, P., &amp; Leslie, A. M. (2026). Modeling how inhibitory control affects false-belief reasoning over time using dense longitudinal data. <em>Proceedings of the 48th Annual Conference of the Cognitive Science Society</em>.</p>
+      <p><strong>Poyraz, E.</strong>, Hemmer, P., &amp; Leslie, A. M. (2020). Can changes in inhibitory control explain child-level theory of mind performance? <em>Proceedings of the 42nd Annual Conference of the Cognitive Science Society</em>, 1825–1832.</p>
+    </div>
   </article>
 
   <article class="research-card">
-    <p class="eyebrow">2020–2025</p>
-    <h2>Modeling child-level theory-of-mind development</h2>
-    <p>Computational models assessing whether changes in inhibitory control can explain developmental change in children’s false-belief reasoning.</p>
-    <p class="research-card__meta">Collaborators: Pernille Hemmer and Alan M. Leslie</p>
-  </article>
-
-  <article class="research-card">
-    <p class="eyebrow">2022–present</p>
     <h2>Knowledge states in numerical decisions</h2>
     <p>Investigating whether young children account for what another person knows when making numerical and resource-sharing decisions.</p>
-    <p class="research-card__meta">Collaborator: Jinjing (Jenny) Wang</p>
+    <div class="research-citations">
+      <p class="eyebrow">Related proceeding</p>
+      <p><strong>Poyraz, E.</strong>, Hemmer, P., &amp; Wang, J. (2026). How to best capture children’s number knowledge? Insights from a Bayesian graphical model. <em>Proceedings of the IEEE International Conference on Development and Learning (ICDL)</em>.</p>
+    </div>
   </article>
 
   <article class="research-card">
-    <p class="eyebrow">2024–present</p>
     <h2>Epistemic action understanding in children</h2>
     <p>Examining how children infer another person’s epistemic goals—what they are trying to learn—from the actions they observe.</p>
-    <p class="research-card__meta">Collaborators: Sholei Croom and Jinjing (Jenny) Wang</p>
   </article>
 </div>
