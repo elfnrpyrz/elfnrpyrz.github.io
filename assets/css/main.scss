@@ -270,12 +270,52 @@ a { color: var(--accent); }
   border-bottom: 1px solid var(--line);
 }
 
-.experience-list article {
-  padding: 1.25rem 0;
-  border-bottom: 1px solid var(--line);
+.teaching-groups {
+  display: grid;
+  gap: 1.25rem;
 }
 
-.experience-list h3 { margin: 0 0 0.45rem; }
+.teaching-group {
+  display: grid;
+  grid-template-columns: minmax(180px, 0.35fr) minmax(0, 1fr);
+  gap: 1.5rem;
+  padding: 1.5rem 0;
+  border-top: 1px solid var(--line);
+}
+
+.teaching-group .eyebrow { padding-top: 0.2rem; }
+
+.course-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.course-list li + li {
+  margin-top: 1.25rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--line);
+}
+
+.course-list strong {
+  display: block;
+  font-size: 1.05rem;
+}
+
+.course-meta {
+  display: block;
+  margin-top: 0.2rem;
+  color: var(--muted-ink);
+  font-size: 0.85rem;
+}
+
+.mentoring-note {
+  padding: 1.5rem;
+  background: var(--wash);
+  border-radius: 10px;
+}
+
+.mentoring-note p:last-child { margin-bottom: 0; }
 
 .about-intro {
   display: grid;
@@ -298,6 +338,7 @@ a { color: var(--accent); }
   .home-hero { min-height: auto; }
   .research-grid { grid-template-columns: 1fr; }
   .research-components { grid-template-columns: 1fr; }
+  .teaching-group { grid-template-columns: 1fr; gap: 0.5rem; }
   .research-card:first-child { grid-column: auto; }
   .about-intro { grid-template-columns: 1fr; }
   .about-intro__image { width: min(100%, 260px); }

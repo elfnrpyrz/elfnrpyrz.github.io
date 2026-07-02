@@ -12,7 +12,7 @@ redirect_from:
   <div class="home-hero__copy">
     <p class="eyebrow">Developmental cognitive scientist</p>
     <h1>Elif N. Poyraz, Ph.D.</h1>
-    <p class="home-hero__lead">I study how children understand other minds—and how attention, inhibition, and context shape that understanding over time.</p>
+    <p class="home-hero__lead">I study how children understand other minds—and how inhibition, representational demands, and context shape that understanding over time.</p>
 
     <div class="contact-row" aria-label="Contact and profile links">
       <a href="mailto:elif.poyraz@rutgers.edu"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a>
@@ -39,6 +39,7 @@ redirect_from:
       <li>Theory of mind and inhibitory control</li>
       <li>Children’s epistemic action understanding</li>
       <li>Social reasoning in numerical decisions</li>
+      <li>Inferring children's numerical knowledge</li>
     </ul>
     <a class="text-link" href="/research/">Explore my research <span aria-hidden="true">→</span></a>
   </aside>

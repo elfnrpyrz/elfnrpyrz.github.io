@@ -36,6 +36,13 @@ author_profile: false
     <h2>Knowledge states in numerical decisions</h2>
     <p>Investigating whether young children account for what another person knows when making numerical and resource-sharing decisions.</p>
     <div class="research-citations">
+    </div>
+  </article>
+  
+   <article class="research-card">
+    <h2>Children's number knowledge</h2>
+    <p>Extending and developing models to infer children's underlying numerical knowledge.</p>
+    <div class="research-citations">
       <p class="eyebrow">Related proceeding</p>
       <p><strong>Poyraz, E.</strong>, Hemmer, P., &amp; Wang, J. (2026). How to best capture children’s number knowledge? Insights from a Bayesian graphical model. <em>Proceedings of the IEEE International Conference on Development and Learning (ICDL)</em>.</p>
     </div>
